@@ -1,7 +1,7 @@
 # Cosmic-Large-Scale-Structure-Generator
 A diffusion‑model‑based generator for cosmic large‑scale structure.
 
-The model was trained using **[The Quijote simulations](https://quijote-simulations.readthedocs.io/en/latest/)** data. (https://arxiv.org/pdf/1909.05273)
+The model was trained using **[The Quijote Simulations](https://quijote-simulations.readthedocs.io/en/latest/)** data. (https://arxiv.org/pdf/1909.05273)
 
 You can run the Python scripts to generate a 2D density field (PNG) or the full sampling evolution (GIF).
 
