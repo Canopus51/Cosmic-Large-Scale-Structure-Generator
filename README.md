@@ -30,6 +30,7 @@ Ensure you have Python 3.8+ installed. You can install the dependencies via:
 
 ```bash
 pip install torch numpy matplotlib imageio imageio-ffmpeg
+```
 
 ### 2. File Preparation
 Download all script files: 
@@ -46,8 +47,10 @@ If you only want .png file, you can run the following command:
 
 ```bash
 python sample.py
+```
 
 If you also want all reverse diffusion process, you can run the following command to get the evolution animation:
 
 ```bash
 python sample.py --gif
+```
