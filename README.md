@@ -34,11 +34,15 @@ pip install torch numpy matplotlib imageio imageio-ffmpeg
 
 ### 2. File Preparation
 Download all script files: 
+
 - ***unet.py*** (Model Architecture)
 - ***utils_diffusion.py*** (Diffusion Logic)
-- ***sample.py*** ,
+- ***sample.py***
+
 and pre-trained weight:
-***best_model.pt*** (Pre-trained Weights) ,
+
+- ***best_model.pt*** (Pre-trained Weights)
+
 and put them in the **same directory**.
 
 ### 3. Products generating
