@@ -60,4 +60,4 @@ python sample.py --gif
 ```
 
  # A small technical tip
- One can adjust the **IMG_SIZE** variable in the ***sample.py*** to get the scale they want, for example, ***ddpm_result.png*** is 256pixels*256pixels while ***ddpm_result1.png*** is 500pixels*500pixels
+ One can adjust the **IMG_SIZE** variable in the ***sample.py*** to get the scale they want, for example, ***ddpm_result.png*** is 256X256 pixels while ***ddpm_result1.png*** is 500X500 pixels.
