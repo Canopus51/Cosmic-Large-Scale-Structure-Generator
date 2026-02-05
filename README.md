@@ -58,3 +58,6 @@ If you also want all reverse diffusion process, you can run the following comman
 ```bash
 python sample.py --gif
 ```
+
+ # A small technical tip
+ One can adjust the **IMG_SIZE** variable in the ***sample.py*** to get the scale they want, for example, ***ddpm_result.png*** is 256pixels*256pixels while ***ddpm_result1.png*** is 500pixels*500pixels
