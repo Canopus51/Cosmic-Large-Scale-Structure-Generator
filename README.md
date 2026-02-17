@@ -1,5 +1,7 @@
 # Cosmic-Large-Scale-Structure-Generator
-A diffusion‑model‑based generator for cosmic large‑scale structure.
+A diffusion‑model‑based generator for cosmic large‑scale structure. 
+
+This project was completed as an undergraduate final assignment. For a lightweight DIY version that runs within 1 minute on the web, please see [here](https://huggingface.co/spaces/Canopus51/Cosmic-Large-Scale-Structure-Generator).
 
 The model was trained using **[The Quijote Simulations](https://quijote-simulations.readthedocs.io/en/latest/)** data. (https://arxiv.org/pdf/1909.05273)
 
