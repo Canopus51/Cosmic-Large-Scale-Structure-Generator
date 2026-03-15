@@ -47,6 +47,8 @@ and pre-trained weight:
 
 and put them in the **same directory**.
 
+(*You can train your own model by executing* ***train.py***.)
+
 ### 3. Products generating
 
 If you only want .png file, you can run the following command:
@@ -63,3 +65,5 @@ python sample.py --gif
 
  # A small technical tip
  One can adjust the **IMG_SIZE** variable in the ***sample.py*** to get the scale they want, for example, ***ddpm_result.png*** is 256X256 pixels while ***ddpm_result1.png*** is 500X500 pixels.
+
+ *If you're interested in anything or have questions, you’re welcome to email me at* ***zhenyuliu@mails.ccnu.edu.cn***
